@@ -5,9 +5,25 @@ I am a software engineering :mortar_board: student pursuing my passion as a Reac
 - 🔭 I’m currently working on building my portfolio using Next.js
 - 👯 I’m looking to collaborate on opensource projects
 
- 📫  Reach me out
-<a href="linkedin.com/in/salman-inayat-69a634197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syedhassanbukhari" height="30" width="40" /></a>
-
+### Reach me out at
+<a target="_blank" href="linkedin.com/in/salman-inayat-69a634197/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="https://dev.to/aryclenio/">
+  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
+<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://fb.com/aryxb">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 **Languages and Tools:**  
 
