@@ -4,7 +4,9 @@ I am a software engineering :mortar_board: student pursuing my passion as a Reac
 
 - 🔭 I’m currently working on building my portfolio using Next.js
 - 👯 I’m looking to collaborate on opensource projects
-- 📫 How to reach me: <a href="linkedin.com/in/salman-inayat-69a634197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syedhassanbukhari" height="30" width="40" /></a>
+
+ 📫  Reach me out
+<a href="linkedin.com/in/salman-inayat-69a634197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="syedhassanbukhari" height="30" width="40" /></a>
 
 
 **Languages and Tools:**  
