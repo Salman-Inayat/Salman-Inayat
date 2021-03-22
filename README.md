@@ -5,14 +5,7 @@ I am Salman Inayat. I am a software engineering :mortar_board: student pursuing 
 - 🔭 I’m currently working on building my portfolio using Next.js
 - 👯 I’m looking to collaborate on opensource projects
 
-## Reach me out at
 
-<div>
-<a target="_blank" href="mailto:salmaninayat1999@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-  <br/>
-</div>
 
 **Languages and Tools:**  
 
@@ -34,3 +27,10 @@ I am Salman Inayat. I am a software engineering :mortar_board: student pursuing 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Salman-Inayat.Salman-Inayat)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
+### Reach me out 
+<div>
+<a target="_blank" href="mailto:salmaninayat1999@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+  <br/>
+</div>
