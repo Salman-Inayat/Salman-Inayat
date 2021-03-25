@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-I am Salman Inayat. I am a software engineering :mortar_board: student pursuing my passion as a React developer. 
+I am Salman Inayat,a software engineering :mortar_board: student pursuing my passion as a React developer. 
 
 - 🔭 I’m currently working on building my portfolio using Next.js
 - 👯 I’m looking to collaborate on opensource projects
@@ -34,3 +34,11 @@ I am Salman Inayat. I am a software engineering :mortar_board: student pursuing 
 </a>
   <br/>
 </div>
+<br/>
+<a href="linkedin.com/in/salman-inayat-69a634197/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:salmaninayat1999@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br/>
