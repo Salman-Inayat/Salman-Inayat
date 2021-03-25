@@ -28,14 +28,9 @@ I am Salman Inayat,a software engineering :mortar_board: student pursuing my pas
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
 ### Reach me out 
-<div>
-<a target="_blank" href="mailto:salmaninayat1999@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-  <br/>
-</div>
+
 <br/>
-<a href="linkedin.com/in/salman-inayat-69a634197/">
+<a href="https://linkedin.com/in/salman-inayat-69a634197/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:salmaninayat1999@gmail.com">
