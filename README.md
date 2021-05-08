@@ -24,8 +24,11 @@ I am Salman Inayat,a software engineering :mortar_board: student pursuing my pas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Inayat&theme=tokyonight&layout=compact)
 
     
+<!-- 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Salman-Inayat.Salman-Inayat)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+-->
+
 
 ### Reach me out 
 
