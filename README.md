@@ -23,6 +23,7 @@ I am Salman Inayat,a software engineering :mortar_board: student pursuing my pas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Inayat&theme=tokyonight&layout=compact)
 
+[![wakatime](https://wakatime.com/badge/user/4449c0f7-4e25-4726-a9a9-80253317d52a.svg)](https://wakatime.com/@4449c0f7-4e25-4726-a9a9-80253317d52a)
     
 <!-- 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Salman-Inayat.Salman-Inayat)
