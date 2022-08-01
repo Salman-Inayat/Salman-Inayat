@@ -33,6 +33,7 @@ I am Salman Inayat,a software engineering :mortar_board: student pursuing my pas
 
 ### Reach me out 
 
+<!--
 <br/>
 <a href="https://linkedin.com/in/salman-inayat-69a634197/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -41,3 +42,9 @@ I am Salman Inayat,a software engineering :mortar_board: student pursuing my pas
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br/>
+-->
+
+<p align="left">
+<a href="https://linkedin.com/in/salman-inayat/"><img src="https://img.shields.io/badge/-Salman%20Inayat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:salmans.inayat@gmail.com"><img src="https://img.shields.io/badge/-salmans.inayat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
