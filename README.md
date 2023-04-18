@@ -1,7 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 # 💫 About Me:
-🔭 I’m currently working on a music streaming application<br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Nest.js, GraphQl, and Postgresql<br>💬 Ask me about React, Node.js, and Express.js
+🔭 I’m currently working on a music streaming application<br>👯 I’m looking to collaborate on open-source projects<br>
+<!-- 🤝 I’m looking for help with<br> -->
+🌱 I’m currently learning Nest.js, GraphQl, and Postgresql<br>💬 Ask me about React, Node.js, and Express.js
 
 [![wakatime](https://wakatime.com/badge/user/4449c0f7-4e25-4726-a9a9-80253317d52a.svg)](https://wakatime.com/@4449c0f7-4e25-4726-a9a9-80253317d52a)
 
