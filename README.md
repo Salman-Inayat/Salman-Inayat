@@ -24,8 +24,8 @@ I’m a full-stack developer with 4+ years of experience turning ideas into impa
 ### Reach me out 
 
 <p align="left">
-<a href="https://linkedin.com/in/salman-inayat/"><img src="https://img.shields.io/badge/-Salman%20Inayat?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://linkedin.com/in/salman-inayat/"><img src="https://img.shields.io/badge/-Salman%20Inayat-0077B5?style=flat&logo=X&logoColor=white"/></a>
+<a href="https://linkedin.com/in/salman-inayat/"><img src="https://img.shields.io/badge/-Salman%20Inayat-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://x.com/salman_inayat_"><img src="https://img.shields.io/badge/-Salman%20Inayat-0077B5?style=flat&logo=X&logoColor=white"/></a>
 <a href="mailto:salmans.inayat@gmail.com"><img src="https://img.shields.io/badge/-salmans.inayat@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
